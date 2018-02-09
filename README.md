@@ -1,6 +1,6 @@
 # Puzzler
 This repository contains a Unity 3D mobile application for iOS and Andriod devices called "Puzzler". It has been built and tested using the Google Cardboard Platform.
-
+![img_1321](https://user-images.githubusercontent.com/35173600/36050316-10e7aa52-0db4-11e8-88fe-529319343fd0.PNG)
 ## Application Description
 "Puzzler" is an application created at the start of my Udacity VR Developer Nanodegree. The scene is a one level scene with the goal of the user to escape the dungeon by completing a specific rhythm based off the game "Simon Says". The code for the application was provided by, and used to better my understanding of C# scripting, Udacity and is implemented in the scene to make the user move forward, track their head position in order to follow the sequence, and back to restart the experience.
 
@@ -18,6 +18,7 @@ In order to download and build application you must:
 
 ## How to play
 The instructions to play the application "Puzzler":
+![img_1320](https://user-images.githubusercontent.com/35173600/36050340-2ca04f88-0db4-11e8-97f8-22c4ff2fb8d6.PNG)
 <br />
 <br /> • Press the "Start" button on the panel
 <br />
