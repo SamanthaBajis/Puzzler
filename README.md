@@ -1,29 +1,30 @@
 # Puzzler
-An example video of this application built and running on device can be found on my [YouTube Channel.](https://www.youtube.com/channel/UCjgsJBXmN7ZedXu7ZuJCKsA/videos?view_as=subscriber "YouTube")
+An example video of this application built and running on device can be found on my [YouTube Channel.](https://www.youtube.com/watch?v=J-z75k5tqYA "YouTube")
 <br />
-<br /> This repository contains a Unity 3D mobile application for iOS and Andriod devices called **_Puzzler_**. It was built and tested using the Google Cardboard Viewer. **_Puzzler_** is an application created at the start of my Udacity VR Developer Nanodegree Program. The project is a one level game. The goal for the user is to escape the dungeon by completing a specific rhythm based off the game "Simon Says". The code used in the application was provided by Udacity and is implemented in the scene to make the user move forward, track their head position in order to follow the rhythmic sequence, to be able to display the sequence on the spheres, and move the user back to restart the experience.
+<br /> This repository contains a Unity mobile application for iOS and Andriod devices called **_Puzzler_**. It was built and tested using the Google Cardboard Viewer. **_Puzzler_** is an application created at the start of my Udacity VR Developer Nanodegree Program. The project is a one level game. The goal for the user is to escape the dungeon by completing a specific rhythm based off the game "Simon Says". The code used in the application was provided by Udacity and is implemented in the scene to make the user move forward, track their head position in order to follow the rhythmic sequence, to be able to display the sequence on the spheres, and move the user back to restart the experience.
 ![img_1321](https://user-images.githubusercontent.com/35173600/36050316-10e7aa52-0db4-11e8-88fe-529319343fd0.PNG)
 ## Getting Started
 
 ### Prerequisites
 The software you will need to download in order to build and run the game on a mobile device:
-<br /> • The cross-platform engine [Unity 3D](https://unity3d.com/unity/qa/patch-releases/2017.1.0p4 "Unity 3D download") Patch Release 2017.1.0p4
 <br />
-- For iOS builds, the latest version of [Xcode](https://developer.apple.com/download/ "Xcode 9.3 Beta")
-- NOTE! You will need to have an [Apple ID](https://appleid.apple.com/account#!&page=create "Developer Account") in order to download Xcode and build for iOS
-- NOTE! Make sure to have the latest software version; 11 and up
-- For Android builds, you need [Android Studio](https://developer.android.com/studio/index.html "Android Studio download") and the [Java JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html "JDK download")
+<br /> • The cross-platform engine [Unity](https://unity3d.com/unity/qa/patch-releases/2017.1.0p4 "Unity 3D download") Patch Release 2017.1.0p4.
+<br />
+- For iOS builds, the latest version of [Xcode.](https://developer.apple.com/download/ "Xcode 9.3 Beta")
+- NOTE! You will need to have an [Apple ID](https://appleid.apple.com/account#!&page=create "Developer Account") in order to download Xcode and build for iOS.
+- NOTE! Make sure to have the latest software version; 11 and up.
+- For Android builds, you need [Android Studio](https://developer.android.com/studio/index.html "Android Studio download") and the [Java JDK 8.](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html "JDK download")
 
 ### Installing
 To build and run a copy of this application to your mobile device:
 <br />
-<br /> • On the **_Puzzler_** repository, go to the green "Clone or download" button and click "Download Zip"
+<br /> • On the **_Puzzler_** repository, go to the green "Clone or download" button and click "Download Zip".
 <br />
-<br /> • Once the zip file has loaded onto your desktop, double click the zip file to open. Navigate to the folder Assets > mainScene.unity and double click the scene to open it in Unity 3D
+<br /> • Once the zip file has loaded onto your desktop, double click the zip file to open. Navigate to the folder Assets > mainScene.unity and double click the scene to open it in Unity.
 <br />
 <br /> -NOTE! The scene may not be located at the top of the folder. If not, you will have to scroll through the folder to find it. It will be titled exactly mainScene.unity with the Unity logo-
 <br />
-<br /> After opening the scene in Unity 3D choose to build to either an iOS or Android mobile device
+<br /> After opening the scene in Unity choose to build to either an iOS or Android mobile device:
 <br />
 1. For iOS builds:
    - Go to File > Build Settings and switch the platform to iOS (this can take a while) then click the Player Settings button below that and with this open you can change the name of the application and bundle identifier, if you would like to change them, before pressing Build and Run to then be prompted to name the build and save it. (I usually save the build to my desktop so I can delete it later) 
@@ -43,11 +44,11 @@ When building the application to your phone a few important things to note:
 The instructions to play the application **_Puzzler_**:
 ![img_1320](https://user-images.githubusercontent.com/35173600/36050340-2ca04f88-0db4-11e8-97f8-22c4ff2fb8d6.PNG)
 <br />
-<br /> • Press the "Start" button on the panel in front of you
+<br /> • Press the "Start" button on the panel in front of you.
 <br />
-<br /> • The user will automatically move into the dungeon in front of a group of spheres that will play a rhythemic sequence they must solve in order to exit the dungeon
+<br /> • The user will automatically move into the dungeon in front of a group of spheres that will play a rhythmic sequence they must solve in order to exit the dungeon.
 <br />
-<br /> • User will be lead out of the dungeon once the sequence is completed correctly and will be presented with restart panel in which case they can click on the "Restart" button and will be moved back restart the experience again
+<br /> • User will be lead out of the dungeon once the sequence is completed correctly and will be presented with restart panel in which case they can click on the "Restart" button and will be moved back restart the experience again.
 <br />
 
 # Authors
@@ -56,8 +57,7 @@ The instructions to play the application **_Puzzler_**:
 # Acknowledgments
 To make **_Puzzler_** possible:
 <br /> 
-<br /> • Udacity - Gathering of assets to use to make scene 
-                 - Coding for player movement mechanic and sphere "simon says" mechanic
+<br /> • Udacity - Gathering of assets to use to make scene, coding for player movement mechanic and sphere "simon says" mechanic
 <br /> 
 <br /> • Google VR SDK - Head tracking, sound system and ability for the users interaction with the Google Cardboard Viewer
 <br /> 
