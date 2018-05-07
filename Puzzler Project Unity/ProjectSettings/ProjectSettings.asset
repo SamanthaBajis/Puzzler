@@ -10,7 +10,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Udacity
+  companyName: SamBajis
   productName: Puzzler
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -141,10 +141,10 @@ PlayerSettings:
   targetPixelDensity: 0
   resolutionScalingMode: 0
   applicationIdentifier:
-    Android: com.SamBajis.PuzzlePro
-    Standalone: unity.DefaultCompany.asdfasdf
+    Android: com.SamBajis.Puzzles
+    Standalone: com.SamBajis.Puzzles
     Tizen: com.Company.ProductName
-    iOS: com.SamBajis.PuzzlePro
+    iOS: com.SamBajis.Puzzles
     tvOS: com.Company.ProductName
   buildNumber:
     iOS: 0
